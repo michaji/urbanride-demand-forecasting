@@ -43,11 +43,10 @@ This project uses the **[Bike Sharing Demand Dataset](https://archive.ics.uci.ed
 ⚠️ The columns `casual` and `registered` are excluded from modeling to prevent **data leakage**, as they sum directly to the target.
 
 ### Data Access
-- The dataset is located in the `data/` directory and you can also download it from link below:
+- The dataset is located in the `data/` directory
+ - You can also download it from:
 [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
-**OR**
-- Download instructions are provided if the dataset is not committed to the repository.
 
 ---
 
