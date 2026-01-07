@@ -106,7 +106,7 @@ def main():
     with open("model_2.bin", "wb") as f_out:
         pickle.dump(model, f_out)
 
-    print("\n✅ Training complete. Model saved as model.bin")
+    print("\n✅ Training complete. Model saved as model_2.bin")
 
 
 if __name__ == "__main__":
